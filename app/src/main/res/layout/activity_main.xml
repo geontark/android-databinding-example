@@ -32,7 +32,6 @@
                 android:layout_height="wrap_content"
                 android:afterTextChanged="@{vm::oneWayF}"
                 android:text="@{vm.oneWay}" />
-
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
